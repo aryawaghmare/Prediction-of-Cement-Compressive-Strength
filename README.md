@@ -1,4 +1,4 @@
-# Prediction of Cement Compressive Strength Using Stacked Ensemble Modeling
+# Prediction of Cement Compressive Strength 
 
 ## Overview
 
